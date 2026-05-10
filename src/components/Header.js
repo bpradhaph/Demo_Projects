@@ -5,7 +5,7 @@ function Header() {
 
       <nav>
         <ul style={styles.navList}>
-          <li>Home Modifie</li>
+          <li>Home Modified</li>
           <li>About</li>
           <li>Services</li>
           <li>Contact</li>
